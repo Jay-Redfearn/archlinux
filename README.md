@@ -68,9 +68,9 @@ Create a file called vconsole.conf by typing “echo "KEYMAP=us" > vconsole.conf
 # Networking
 
 Create a hostname by typing “echo jredfearn > /etc/hostname”. Create the hosts file by typing “touch /etc/hosts”. Edit the “/etc/hosts” file and add…
-	“127.0.0.1 localhost
-	::1 localhost
-	127.0.1.1 jredfearn.localdomain jredfearn”
+	“127.0.0.1 localhost"
+	"::1 localhost"
+	"127.0.1.1 jredfearn.localdomain jredfearn”
 
 Install the network manager by typing “pacman -S networkmanager”. Enable the manager on boot by typing “systemctl enable NetworkManager”.
 
