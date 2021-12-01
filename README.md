@@ -195,6 +195,3 @@ https://averagelinuxuser.com/linux-terminal-color/#google_vignette
 https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html
 
 https://www.geeksforgeeks.org/how-to-install-google-chrome-in-arch-based-linux-distributions/
-
-
-![image](https://user-images.githubusercontent.com/41350159/139554181-9f95d87b-c59c-490c-89fa-08fd94fb1107.png)
